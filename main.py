@@ -1,4 +1,4 @@
 PI = 3.14
 
-def circumference(radius):
-	return 2 * PI * radius
+def area(radius):
+	return PI * radius ** 2
